@@ -19,7 +19,7 @@ The Record Management Software is a Python-based application designed to help us
 - datetime module
 - os module
 - Functions & Docstrings
-- 
+  
 ## How the Program Works:
 - The user enters their name.
 -The user specifies the name of the file where records should be stored.
