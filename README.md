@@ -9,11 +9,19 @@ The Record Management Software is a Python-based application designed to help us
 ## Dependencies
 
 -Any version after Python 3.10
+
 -Any operating system that supports Python:
-  -Windows
-  -Linux
-  -macOS
+
+  .Windows
+  
+  .Linux
+  
+  .macOS
+  
 -Built-in Python modules only:
-   -os
-   -datetime
+
+   .os
+   
+   .datetime
+   
 -No external libraries are required
