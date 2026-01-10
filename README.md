@@ -51,6 +51,8 @@ The Record Management Software is a Python-based application designed to help us
   .Add new records
 
   .Retrieve and view existing records
+
+  .Deelte the file if the user wants
  
   .Each record is saved with a timestamp using the datetime module.
 
@@ -83,7 +85,7 @@ The Record Management Software is a Python-based application designed to help us
 
    .Enter the file name for storing records
 
-   .Choose to add new records or retrieve existing ones
+   .Choose to add new records or retrieve existing ones or delete existing ones
 
 ## Help:
 
